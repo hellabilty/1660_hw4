@@ -1,0 +1,10 @@
+guitar  50
+piano 75
+drums 7
+violin  3
+trumpet 14
+saxophone 21
+flute 16
+clarinet  5
+tuba  2
+spoons  1

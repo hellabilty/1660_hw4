@@ -1,0 +1,10 @@
+cats  500
+dogs  600
+birds 30
+horses  10
+goats 6
+sheep 3
+cows  45
+snakes  1
+lizards 7
+rats  23  
